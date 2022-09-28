@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Altoriu sesely",
+        "Author": "Balys Sruoga",
+        "Publisher": "Vaga",
+        "PublishingDate": "2014-01-20T00:00:00",
+        "Genre": "Romanas",
+        "ISBNCode": "222",
+        "Quantity": 10
+    },
+    {
+        "Title": "Hunu priesai",
+        "Author": "Romualdas Draksas",
+        "Publisher": "Eugrimas",
+        "PublishingDate": "2022-01-20T00:00:00",
+        "Genre": "Romanas",
+        "ISBNCode": "444",
+        "Quantity": 10
+    },
+    {
+        "Title": "Regetoja",
+        "Author": "Lavisa Spell",
+        "Publisher": "Knygos.lt",
+        "PublishingDate": "2022-01-20T00:00:00",
+        "Genre": "Romanas",
+        "ISBNCode": "333",
+        "Quantity": 1
+    },
+    {
+        "Title": "Dievu miskas",
+        "Author": "Balys Sruoga",
+        "Publisher": "Vaga",
+        "PublishingDate": "0001-01-01T00:00:00",
+        "Genre": "Drama",
+        "ISBNCode": "111",
+        "Quantity": 2
+    }
+]
